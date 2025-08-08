@@ -47,6 +47,9 @@ body {
 	font-family: var(--font-family);
 	font-weight: 400;
 }
+html{
+	overflow-x: hidden;
+}
 
 img {
 	max-width: 100%;
